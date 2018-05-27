@@ -7,5 +7,8 @@
 
 # Products-Service has two instances running on two different ports
   used load balancer to distribute load among the instances
+  ![productservice1](https://user-images.githubusercontent.com/34210823/40586461-fa871344-61df-11e8-80dd-1ba2a97536db.PNG)
+  
+  
 
    
